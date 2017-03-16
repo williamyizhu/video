@@ -1,4 +1,4 @@
-play_list = ['Last Week in Dance']
+play_list = ['Pit Trading','Trading Floor']
 
 import os
 import subprocess
